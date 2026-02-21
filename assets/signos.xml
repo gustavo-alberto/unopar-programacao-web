@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>01-20</dataInicio>
+        <dataFim>02-18</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Criativo, independente e humanitário.</descricao>
+        <keywords>Inovador,Original,Livre</keywords>
+    </signo>
+    <signo>
+        <dataInicio>02-19</dataInicio>
+        <dataFim>03-20</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Sensível, intuitivo e sonhador.</descricao>
+        <keywords>Empático,Artístico,Gentil</keywords>
+    </signo>
+    <signo>
+        <dataInicio>03-21</dataInicio>
+        <dataFim>04-19</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Corajoso, determinado e líder natural.</descricao>
+        <keywords>Valente,Impulsivo,Energia</keywords>
+    </signo>
+    <signo>
+        <dataInicio>04-20</dataInicio>
+        <dataFim>05-20</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Persistente e confiável.</descricao>
+        <keywords>Leal,Paciente,Prático</keywords>
+    </signo>
+    <signo>
+        <dataInicio>05-21</dataInicio>
+        <dataFim>06-20</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Comunicativo e curioso.</descricao>
+        <keywords>Versátil,Sociável,Ágil</keywords>
+    </signo>
+    <signo>
+        <dataInicio>06-21</dataInicio>
+        <dataFim>07-22</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Emocional e protetor.</descricao>
+        <keywords>Sensível,Cuidadoso,Leal</keywords>
+    </signo>
+    <signo>
+        <dataInicio>07-23</dataInicio>
+        <dataFim>08-22</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Confiante e carismático.</descricao>
+        <keywords>Líder,Criativo,Orgulhoso</keywords>
+    </signo>
+    <signo>
+        <dataInicio>08-23</dataInicio>
+        <dataFim>09-22</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Analítico e organizado.</descricao>
+        <keywords>Detalhista,Prático,Crítico</keywords>
+    </signo>
+    <signo>
+        <dataInicio>09-23</dataInicio>
+        <dataFim>10-22</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Justo e equilibrado.</descricao>
+        <keywords>Diplomático,Gentil,Social</keywords>
+    </signo>
+    <signo>
+        <dataInicio>10-23</dataInicio>
+        <dataFim>11-21</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Intenso e determinado.</descricao>
+        <keywords>Forte,Misterioso,Leal</keywords>
+    </signo>
+    <signo>
+        <dataInicio>11-22</dataInicio>
+        <dataFim>12-21</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Otimista e aventureiro.</descricao>
+        <keywords>Livre,Explorador,Sincero</keywords>
+    </signo>
+    <signo>
+        <dataInicio>12-22</dataInicio>
+        <dataFim>01-19</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Responsável e disciplinado.</descricao>
+        <keywords>Ambicioso,Prático,Persistente</keywords>
+    </signo>
+</signos>

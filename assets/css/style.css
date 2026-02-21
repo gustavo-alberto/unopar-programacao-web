@@ -1,0 +1,78 @@
+/* Fonte e base */
+body {
+  font-family: 'Manrope', sans-serif;
+  background: radial-gradient(circle at center, #1a233a 0%, #0a0e1a 100%);
+  min-height: 100vh;
+  color: #fff;
+  overflow-x: hidden;
+}
+
+/* Header e Footer */
+header,
+footer {
+  background-color: rgba(10, 14, 26, 0.9);
+}
+
+/* Card padrão */
+.card-custom {
+  background-color: rgba(30, 30, 40, 0.7);
+  border: 1px solid #555;
+  border-radius: 8px;
+}
+
+/* Glow animation (botão da home) */
+@keyframes mysticalGlow {
+  0% {
+    box-shadow: 0 0 5px rgba(20, 75, 184, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(212, 175, 55, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 5px rgba(20, 75, 184, 0.4);
+  }
+}
+
+.glow-effect {
+  animation: mysticalGlow 3s infinite ease-in-out;
+}
+
+/* ===== RESULT PAGE ===== */
+
+/* Tags de características */
+.trait-tag {
+  background: rgba(20, 75, 184, 0.2);
+  border: 1px solid rgba(20, 75, 184, 0.4);
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #9ec5fe;
+}
+
+/* Fundo estrelado */
+.star-field {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: radial-gradient(circle at center, #101f42 0%, #050b18 100%);
+}
+
+.star {
+  position: absolute;
+  background: white;
+  border-radius: 50%;
+  opacity: 0.6;
+  animation: twinkle 3s infinite ease-in-out;
+}
+
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+}
